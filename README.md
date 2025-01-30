@@ -17,4 +17,4 @@ The template is just a HTML file using a CDN service
 #
 Use it for learning purposes, but don't republish, redistribute, or resell the template.
 
-- Code by Vladyslav
+- Code by Abdelmounaim
